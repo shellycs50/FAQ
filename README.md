@@ -23,7 +23,6 @@
 ### Live Demo: https://faq-demo.robsheldrick.dev.io-academy.uk
 
 ## TODO: 
-- Implement tanstack query and optimise backend fetching frequency (in progress)
 - Create a clear separation between matched results and unmatched results (potentially remove non matches from UI)
 - Find way to hide or remove dynamic navbar render delay (currently 'awaits' a cookies.get call on login) -> Quick Fix = loading screen or setting some global state as cookies feel hacky. 
 - Mobile Layouts
