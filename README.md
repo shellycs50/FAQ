@@ -23,5 +23,6 @@
 ### Live Demo: https://faq-demo.robsheldrick.dev.io-academy.uk
 
 ## TODO: 
+- Fix delay where on Answer Modal close, answer listings are briefly in their default state rather than sorted
 - General UI iteration and Admin control functions
 - Investigate ways to achieve more efficient than current 0(n log n) time for searching. No issues with such a small dataset but a great practice problem.  
